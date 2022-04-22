@@ -1,0 +1,2 @@
+module sA2 {
+}
